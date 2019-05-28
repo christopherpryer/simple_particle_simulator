@@ -1,0 +1,6 @@
+matplotlib
+pytest
+pytest-benchmark
+pyprof2calltree
+line_profiler
+memory_profiler

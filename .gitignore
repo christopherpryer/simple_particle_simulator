@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.pytest_cache/
+.benchmarks/
+profile.out
+qcachegrind074-x86/
+line_profiler/
